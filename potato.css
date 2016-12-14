@@ -60,7 +60,6 @@ h1 {
 
 
 
-
 /* Insert CSS for arms below this line*/
 
 
@@ -92,6 +91,11 @@ h1 {
 
 
 /* Insert CSS for hatflower below this line*/
+#hatflower {
+  width: 50px; 
+  top: -20px ;
+  left: 185px;
+}
 
 
 
